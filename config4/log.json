@@ -1,0 +1,18 @@
+[
+    {
+        "instruction": "15 47 1014",
+        "binary": "0f2f03f6"
+    },
+    {
+        "instruction": "59 45 298",
+        "binary": "3b2d0000012a"
+    },
+    {
+        "instruction": "11 17 421",
+        "binary": "0b11000001a5"
+    },
+    {
+        "instruction": "63 32 25",
+        "binary": "3f2019"
+    }
+]
